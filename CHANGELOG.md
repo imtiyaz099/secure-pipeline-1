@@ -1,4 +1,4 @@
 CHANGELOG.md: 
 # Changelog 
  
-## Unreleased - Initial secure Gitflow practical. 
+## 1.0.0 - Initial secure Gitflow release. - Add tax calculation feature.
